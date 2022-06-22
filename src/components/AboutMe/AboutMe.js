@@ -22,7 +22,7 @@ export const AboutMe = () => {
             <b>About Me</b>
           </h1>
           <br />
-          <p
+          {/* <p
             data-aos="fade-up"
             data-aos-delay="0"
             data-aos-once
@@ -62,7 +62,7 @@ export const AboutMe = () => {
             In my free time, I enjoy playing tennis or guitar, if not these,
             you`&apos;`ll find me reading a book or playing video games with
             friends
-          </p>
+          </p> */}
         </Col>
         <Col xxl={1} xl={1} lg={7} xs={2} />
         <Col
